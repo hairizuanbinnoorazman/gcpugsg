@@ -2,4 +2,4 @@ build:
 	rm -rf public
 	hugo
 local:
-	hugo server -w --disableFastRender
+	hugo server -w -v --disableFastRender
