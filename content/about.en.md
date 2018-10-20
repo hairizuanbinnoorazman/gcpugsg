@@ -1,18 +1,8 @@
 ---
-title: "About Hugo"
+title: "About GCPUG-SG"
 date: "2014-04-09"
 menu: "main"
 author: "John Doe"
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
-
-It makes use of a variety of open source projects including:
-
-- https://github.com/russross/blackfriday
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Google Cloud Platform User Group Singapore (GCPUG-SG) is a local Singapore organization whose focus is to get people from community to share their learnings and use cases in order to further understand the tools within Google Cloud Platform. Usually, such sharing are held with talks but we are aiming to have a different variety of formats to share content with other audiences.
