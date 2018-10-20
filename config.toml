@@ -55,44 +55,6 @@ copyright = "© 2014 Copyright Text"
     name = "Links"
     menu = "footer1"
 
-# French
-[languages.fr]
-  languageName = "Français"
-
-  # Main menu
-  [[languages.fr.menu.main]]
-    url = "/fr/"
-    name = "Accueil"
-    weight = 1
-
-  # Footer menu 1
-  [[languages.fr.menu.footer1]]
-    url = "#"
-    name = "Service 1"
-    weight = 1
-  [[languages.fr.menu.footer1]]
-    url = "#"
-    name = "Service 2"
-    weight = 2
-
-  # Footer menu 2
-  [[languages.fr.menu.footer2]]
-    url = "/fr/"
-    name = "Accueil"
-    weight = 1
-  [[languages.fr.menu.footer2]]
-    url = "/about/"
-    name = "Sur"
-    weight = 2
-
-  # Include menus in footer
-  [[languages.fr.params.footer_menus]]
-    name = "Services"
-    menu = "footer2"
-  [[languages.fr.params.footer_menus]]
-    name = "Links"
-    menu = "footer1"
-
 # Other params
 [params]
   # Display post summaries instead of content in list templates (default: true)
