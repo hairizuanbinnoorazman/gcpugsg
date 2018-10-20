@@ -1,17 +1,17 @@
 baseurl = "https://example.com/"
-title = "Material Blog"
+title = "Google Cloud Platform User Group Singapore"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 
 # Pagination
-paginate = 3
+paginate = 5
 paginatePath = "page"
 
 # Theme to use
 theme = "hugo-material-blog"
 
 # Copyright, appears in the footer
-copyright = "© 2014 Copyright Text"
+copyright = "© 2018 Copyright Text"
 
 # Links format
 [permalinks]
