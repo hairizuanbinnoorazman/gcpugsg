@@ -3,6 +3,9 @@ author: "Hairizuan"
 date: 2018-10-20
 title: Google Cloud Devfest 2018 Singapore
 weight: 10
+categories: ["meetup"]
+type: "post"
+linktitle: ""
 ---
 
 GCPUG would be hosting the Google Cloud Devfest on **27 October 2018** at Google Singapore. If you are interested in the talk, go to the following meetup page and sign up there:
