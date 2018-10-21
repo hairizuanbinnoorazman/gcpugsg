@@ -93,7 +93,7 @@ canonifyURLs = true
   [params.intro.pic]
     src       = "/img/main/logo.png"
     width     = "300"
-    alt       = "Hugo Future Imperfect"
+    alt       = "GCPUG - Singapore"
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
