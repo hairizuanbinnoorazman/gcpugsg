@@ -1,7 +1,6 @@
 ---
 author: "Hairizuan"
 date: 2018-10-20
-linktitle: Google Cloud Devfest 2018 Singapore
 title: Google Cloud Devfest 2018 Singapore
 weight: 10
 ---

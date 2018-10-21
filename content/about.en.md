@@ -1,7 +1,6 @@
 ---
 title: "About GCPUG-SG"
 date: "2014-04-09"
-menu: "main"
 author: "John Doe"
 ---
 
