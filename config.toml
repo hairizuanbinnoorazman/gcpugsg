@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Google Cloud Platform User Group - Singapore"
+title = "GCPUG - Singapore" 
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 5
@@ -91,13 +91,9 @@ canonifyURLs = true
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
   [params.intro.pic]
-    src       = "/img/main/logo.jpg"
-    # Sets Image to be a cirlce
-    circle    = false
-    # Sets Image to be Future Imperfect's hexagon
-    imperfect = true
-    width     = ""
-    alt       = "GCPUG-SG"
+    src       = "/img/main/logo.png"
+    width     = "300"
+    alt       = "Hugo Future Imperfect"
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
@@ -146,7 +142,5 @@ canonifyURLs = true
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github           = "jpescador/hugo-future-imperfect"
-  linkedin         = "example"
-  facebook         = "example"
-  email            = "example"
+  github           = "hairizuanbinnoorazman/gcpugsg"
+  facebook         = "groups/1887212944908972/"
