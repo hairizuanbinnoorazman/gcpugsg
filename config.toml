@@ -43,10 +43,7 @@ canonifyURLs = true
   # Sets Social Share links to appear on posts
   socialShare          = true
   socialShareTwitter   = true
-  socialShareGoogleplus = true
   socialShareFacebook  = true
-  socialShareReddit    = true
-  socialShareLinkedin  = true
   socialShareEmail     = true
 
   # Load custom CSS or JavaScript files. The variable is an array so that you
@@ -118,12 +115,6 @@ canonifyURLs = true
   url = "/blog/"
   identifier = "fa fa-newspaper-o"
   weight = 3
-
-[[menu.main]]
-  name = "Itemized"
-  url = "/itemized/"
-  identifier = "fa fa-list"
-  weight = 4
 
 [[menu.main]]
   name = "Categories"
