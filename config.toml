@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://www.gcpugsg.com/"
 languageCode = "en-us"
 title = "GCPUG - Singapore" 
 theme = "hugo-future-imperfect"
