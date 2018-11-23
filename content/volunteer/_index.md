@@ -7,4 +7,4 @@ Google Cloud Platform User Group Singapore (GCPUG-SG) is a local Singapore organ
 
 We are constantly on a lookout for new speakers so if you wish to speak on any of events, you can reach out to us via the following form:
 
-https://docs.google.com/forms/d/e/1FAIpQLSd4Qx_JJ7TEHKUmoBCZOlwrdYT65tk6UaQEr6TZfgd-qqQuSw/viewform
+{{< google-forms 1FAIpQLSd4Qx_JJ7TEHKUmoBCZOlwrdYT65tk6UaQEr6TZfgd-qqQuSw >}}
