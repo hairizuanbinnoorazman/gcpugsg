@@ -30,20 +30,20 @@ Special thanks to engineers.sg for taking the time out to record the sessions! G
 
 ### My favorite announcements from Cloud Next
 
-{{ youtube moNqqLqYWgc }}
+{{< youtube moNqqLqYWgc >}}
 
 In case video is broken: https://engineers.sg/video/my-favorite-announcements-from-cloud-next-cloud-devfest-2018--2964
 
 ### Provisioning Google GKE with Hashicorp Terraform 
 
-{{ youtube Jv_qoWGqXdI }}
+{{< youtube Jv_qoWGqXdI >}}
 
 In case video is broken: 
 https://engineers.sg/video/provisioning-google-gke-with-hashicorp-terraform-cloud-devfest-2018--2963
 
 ### How should I connect to the cloud? An introduction to dedicated connectivity
 
-{{ youtube 3Fm2MEUj7S8 }}
+{{< youtube 3Fm2MEUj7S8 >}}
 
 In case video is broken:
 https://engineers.sg/video/how-should-i-connect-to-the-cloud-an-introduction-to-dedicated-connectivity-cloud-devfest-2018--2962
