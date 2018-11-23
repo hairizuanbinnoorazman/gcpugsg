@@ -10,13 +10,13 @@ In the future, we would add some open source projects that the core team members
 
 ## Resources
 
-- Video Recordings of talks in Singapore
+- Video Recordings of talks in Singapore  
   https://engineers.sg/
-- Google Cloud Blog
+- Google Cloud Blog  
   https://cloud.google.com/blog/
-- Data Science Singapore Meetup group
+- Data Science Singapore Meetup group  
   https://www.meetup.com/DataScience-SG-Singapore/
-- Tensorflow and Deep Learning Singapore
+- Tensorflow and Deep Learning Singapore  
   https://www.meetup.com/TensorFlow-and-Deep-Learning-Singapore/
-- Kubernetes Meetup Group Singapore
+- Kubernetes Meetup Group Singapore  
   https://www.meetup.com/Singapore-Kubernetes-User-Group/
