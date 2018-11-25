@@ -20,3 +20,10 @@ In the future, we would add some open source projects that the core team members
   https://www.meetup.com/TensorFlow-and-Deep-Learning-Singapore/
 - Kubernetes Meetup Group Singapore  
   https://www.meetup.com/Singapore-Kubernetes-User-Group/
+- Coursera courses  
+  https://www.coursera.org/specializations/developing-apps-gcp  
+  https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform  
+  https://www.coursera.org/specializations/gcp-data-machine-learning  
+  https://www.coursera.org/specializations/gcp-architecture  
+  https://www.coursera.org/specializations/apigee-api-gcp  
+  https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp
