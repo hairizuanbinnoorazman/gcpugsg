@@ -10,6 +10,9 @@ pluralizeListTitles = false
 enableRobotsTXT = true
 canonifyURLs = true
 
+[permalinks]
+    posts = "/:title/"
+
 [params]
   # Sets the meta tag description
   description          = ""
