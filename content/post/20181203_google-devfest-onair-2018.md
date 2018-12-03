@@ -1,6 +1,6 @@
 ---
 author: "Hairizuan"
-date: 2018-12-04
+date: 2018-12-03
 title: Google Devfest On Air 2018
 weight: 10
 categories: ["online meetup"]
