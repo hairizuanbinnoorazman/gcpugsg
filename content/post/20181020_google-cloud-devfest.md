@@ -4,7 +4,7 @@ date: 2018-10-20
 title: Google Cloud Devfest 2018 Singapore
 weight: 10
 categories: ["meetup"]
-linktitle: ""
+linktitle: "cloud-devfest-singapore-2018"
 ---
 
 [Updated: 2018-11-23]
