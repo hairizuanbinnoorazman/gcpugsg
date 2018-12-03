@@ -11,7 +11,7 @@ enableRobotsTXT = true
 canonifyURLs = true
 
 [permalinks]
-    posts = "/:title/"
+  post = "/:title/"
 
 [params]
   # Sets the meta tag description
