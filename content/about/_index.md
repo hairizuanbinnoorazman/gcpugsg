@@ -16,7 +16,7 @@ On previous meetups in 2018, whenever there is a Question and Answer section, th
 
 https://www.sli.do/
 
-The code to join would be available on the meetup page on the site. Do lookout for it.
+There would be a code available which you can use and join in a "room". Once you are there, you can anonymously ask questions to the speaker; if everyone thinks your question is good, it can get upvoted accordingly.
 
 No login is required for audience members; the organizer that would be around that day would be picking the 3-5 questions from the list and proceed to ask the speaker. Any further questions can be answered on a later date/time.
 
