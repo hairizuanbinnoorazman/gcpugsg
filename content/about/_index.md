@@ -8,6 +8,20 @@ Google Cloud Platform User Group Singapore (GCPUG-SG) is a local Singapore organ
 
 In the future, we would add some open source projects that the core team members are working that would be great to be shared with the community. However in the mean time, just enjoy some of the resources/links that are shared here. They should prove useful to you if this is like your first time being aware of the meetup group and availability of cloud blogs/resources.
 
+## Coming to meetups
+
+We are testing a way of streamlining the questions and answer section of talks.
+
+On previous meetups in 2018, whenever there is a Question and Answer section, there would typically be one organizer that would be running around with a microphone so that the audience member asking the question would have his question be more audible to the speaker. Instead, we would now try using a tool on this website:
+
+https://www.sli.do/
+
+The code to join would be available on the meetup page on the site. Do lookout for it.
+
+No login is required for audience members; the organizer that would be around that day would be picking the 3-5 questions from the list and proceed to ask the speaker. Any further questions can be answered on a later date/time.
+
+This is an experimental run; if it turns out to be more chaotic, we might just stop this.
+
 ## Resources
 
 - Video Recordings of talks in Singapore  
