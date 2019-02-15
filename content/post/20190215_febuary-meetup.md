@@ -7,19 +7,26 @@ categories: ["online meetup"]
 linktitle: ""
 ---
 
+GCPUG hosted a meetup on **20 February 2019** at Google Singapore. If you are interested in the talk, refer to the following meetup page for more details:
+
+https://www.meetup.com/GCPUGSG/events/258099638/
+
+## Event details
+
 There are 2 talks for this session
 
-## Talk 1
+### Talk 1
 
 Topic: Using Machine Learning to meet Data Privacy requirements.
 
 Speaker: Jason Quek from Avalon Solutions
 
 Synoposis: General Data Protection Regulation states that European citizens have the right to request for access to their personal data, and that photos of themselves are considered personal data. With a large database of photos, companies run the risk of running afoul of regulations which can cost many millions in fines.
+
 During this session, we will demonstrate how we use Machine Learning to solve this problem at different levels through facial recognition models and categorization of unstructured data, e.g. DNS entries.
 As data privacy becomes a larger issue in Singapore, some of the techniques can be reused to ensure that data breaches can be detected and not compromised.
 
-## Talk 2
+### Talk 2
 
 Topic: Using BigQuery for Large Data Processing
 
