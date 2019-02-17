@@ -13,7 +13,7 @@ https://www.meetup.com/GCPUGSG/events/258099638/
 
 ## Event details
 
-There are 2 talks for this session
+There are 3 talks for this session
 
 ### Talk 1
 
@@ -34,3 +34,12 @@ Speaker: Nito Buendia, Customer Solution Engineer Google
 Bio: Nito is a Customer Solutions Engineer at Google; working on building scalable automation and data solutions for Google's largest advertisers. During his tenure at Google, he has mainly focused on Automation and delivering solutions for teams to operate at 10x scale. He is passionate about empowering businesses through digitization and technology.
 
 Sypnosis: BigQuery is Google Cloud's highly scalable, enterprise-ready data warehouse; which will allow you to focus on analyzing large data sets without worrying about the infrastructure. On this session, we will learn what BigQuery is and the benefits that can bring to your business and data projects. We will also explore some enterprise architecture examples and showcase how you can optimize and improve the performance of analyses.
+
+### Talk 3
+
+Topic: Responsible AI Practices: Fairness in ML
+
+Speaker:
+Bio: Andrew Zaldivar is a Developer Advocate for Google AI. His job is to help to bring the benefits of AI to everyone. Andrew develops, evaluates, and promotes tools and techniques that can help communities build responsible AI systems, writing posts for the Google Developers blog and speaking at a variety of conferences. Before joining Google AI, Andrew was a Senior Strategist in Google’s Trust & Safety group and worked on protecting the integrity of some of Google’s key products by using machine learning to scale, optimize and automate abuse-fighting efforts. Prior to joining Google, Andrew completed his Ph.D. in Cognitive Neuroscience from the University of California, Irvine and was an Insight Data Science fellow.
+
+Sypnosis: AI systems are enabling new experiences and abilities for people around the globe. The risk is that any unfairness in such systems can also have a wide-scale impact. Thus, as the impact of AI increases across sectors and societies, it is critical to work towards systems that are fair and inclusive for all. This talk will share some of our current work and recommended practices for building fairer and more inclusive AI systems.
