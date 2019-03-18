@@ -41,3 +41,12 @@ This is an experimental run; if it turns out to be more chaotic, we might just s
   https://www.coursera.org/specializations/gcp-architecture  
   https://www.coursera.org/specializations/apigee-api-gcp  
   https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp
+
+## Additional Tools for Speakers
+
+- Slido  
+  Slido is a tool to provide polling/question and answer feature
+  https://www.sli.do/
+- Google Data GIF  
+  A tool to provide a animated vizualization to showcase points in a dataset
+  https://datagifmaker.withgoogle.com/
