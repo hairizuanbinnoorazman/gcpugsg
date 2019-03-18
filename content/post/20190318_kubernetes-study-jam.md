@@ -1,6 +1,6 @@
 ---
 author: "Hairizuan"
-date: 2019-03-19
+date: 2019-03-18
 title: Kubernetes Study Jam
 weight: 10
 categories: ["meetup"]
