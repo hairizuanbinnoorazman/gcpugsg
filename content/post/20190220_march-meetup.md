@@ -3,7 +3,7 @@ author: "Hairizuan"
 date: 2019-02-20
 title: March Meetup
 weight: 10
-categories: ["online meetup"]
+categories: ["meetup"]
 linktitle: ""
 ---
 

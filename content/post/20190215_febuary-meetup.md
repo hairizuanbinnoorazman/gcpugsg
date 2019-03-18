@@ -3,7 +3,7 @@ author: "Hairizuan"
 date: 2019-02-15
 title: BigQuery and Solving GDPR with Machine Learning
 weight: 10
-categories: ["online meetup"]
+categories: ["meetup"]
 linktitle: ""
 ---
 
