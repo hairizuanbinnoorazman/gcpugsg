@@ -44,9 +44,11 @@ This is an experimental run; if it turns out to be more chaotic, we might just s
 
 ## Additional Tools for Speakers
 
+The below are some tools that speakers can potentially use to spice up their talks
+
 - Slido  
-  Slido is a tool to provide polling/question and answer feature
+  Slido is a tool to provide polling/question and answer feature  
   https://www.sli.do/
 - Google Data GIF  
-  A tool to provide a animated vizualization to showcase points in a dataset
+  A tool to provide a animated vizualization to showcase points in a dataset  
   https://datagifmaker.withgoogle.com/
