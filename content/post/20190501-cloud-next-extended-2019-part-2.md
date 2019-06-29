@@ -7,6 +7,10 @@ categories: ["meetup"]
 linktitle: ""
 ---
 
+GCPUG Singapore held an initial Cloud Next Extended event on 1st June 2019 where an expansive set of topics are covered which include some of the exciting pieces of tech such as AI and Devops
+
+Meetup Link: https://www.meetup.com/GCPUGSG/events/258359490/
+
 ## Talk 1
 
 Topic: Dive into favourite announcements from Google Cloud Next '19
@@ -31,7 +35,7 @@ Topic: Data Engineering and Machine Learning on production with GCP (which invol
 Synopsis: Introduction to 90 Seconds and how GCP services helped us (90 Seconds) productionize machine learning to deliver values directly to business.
 We will also share a few examples / case studies / and best practices we have around this topic too.
 
-Speaker: Dat
+Speaker: from 90 seconds
 
 ## Talk 4
 
