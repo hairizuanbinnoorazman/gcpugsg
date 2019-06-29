@@ -7,6 +7,10 @@ categories: ["meetup"]
 linktitle: ""
 ---
 
+GCPUG Singapore held an initial Cloud Next Extended event on 24th April 2019 where an expansive set of topics are covered which include some of the exciting pieces of tech such as Anthos and Google Cloud Run.
+
+Meetup link: https://www.meetup.com/GCPUGSG/events/259734957/
+
 ## Talk 1
 
 Topic: Where Should I Run My Code? Choosing From 5+ Compute Options
