@@ -7,7 +7,7 @@ categories: ["meetup"]
 linktitle: ""
 ---
 
-GCPUG will be hosting a Study Jam on **30 March 2019** at Google Singapore. If you are interested to learn on how to get started with Kubernetes, sign up for the event here:
+GCPUG hosted a Study Jam on **30 March 2019** at Google Singapore. If you are interested to learn on how to get started with Kubernetes, sign up for the event here:
 
 https://www.meetup.com/GCPUGSG/events/258099863/
 
