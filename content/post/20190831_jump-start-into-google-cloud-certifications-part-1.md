@@ -53,3 +53,6 @@ Below are some of the questions that were raised during the session; some of the
    - Yes you do. Qwiklab has a public profile which you can access by going the the "My Learning" option in the left hand side panel. And from there, on the loaded page, there would be a link to go to public profile.
 7. If the amount of time provided to complete a course within a quest is not enough, can I continue with it from where I last left it?
    - Unfortunately no. Each qwiklab session kind of creates a temporary gcp project which you can then use to try out certain product features within it. Once the session ends, the temporary account is no longer accessible. So, going through the courses once more would mean restarting from the beginning all over again.
+
+Here's also an additional link that might be useful for you while going through your certification journey.  
+https://github.com/ddneves/awesome-gcp-certifications#Google-Cloud---Associate-Cloud-Engineer%60
