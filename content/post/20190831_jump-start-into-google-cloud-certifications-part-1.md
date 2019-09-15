@@ -49,3 +49,7 @@ Below are some of the questions that were raised during the session; some of the
    - Nope, not exactly. The certification page kind of specifies that one should start with the Associate Cloud Engineer certification but you can technically skip this certification and jump immediately into the Professional level certifications if you are comfortable with it
 5. When would the certification exams be held?
    - There is no set period when the exams would be held. When you register for the certification course, you will get to decide the venue, date and time of where you will be taking the exam.
+6. Do I get anything to showcase the courses I completed the qwiklabs courses/quests?
+   - Yes you do. Qwiklab has a public profile which you can access by going the the "My Learning" option in the left hand side panel. And from there, on the loaded page, there would be a link to go to public profile.
+7. If the amount of time provided to complete a course within a quest is not enough, can I continue with it from where I last left it?
+   - Unfortunately no. Each qwiklab session kind of creates a temporary gcp project which you can then use to try out certain product features within it. Once the session ends, the temporary account is no longer accessible. So, going through the courses once more would mean restarting from the beginning all over again.
