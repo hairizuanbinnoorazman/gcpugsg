@@ -1,9 +1,9 @@
 ---
 author: "Hairizuan"
-date: 2019-08-31
+date: 2019-09-14
 title: Jump start into Google Cloud Certifications - Part 1
 weight: 10
-categories: ["meetup"]
+categories: ["study jam"]
 ---
 
 GCPUG hosted the following event on **2019-09-14** at Google Singapore.
