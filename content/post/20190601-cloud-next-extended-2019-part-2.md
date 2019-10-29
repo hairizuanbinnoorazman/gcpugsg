@@ -1,6 +1,6 @@
 ---
 author: "Hairizuan"
-date: 2019-05-01
+date: 2019-06-01
 title: Cloud Next Extended Singapore - Part 2 - Data, AI and Devops!
 weight: 10
 categories: ["meetup"]

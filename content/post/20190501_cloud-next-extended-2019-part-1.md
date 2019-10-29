@@ -1,6 +1,6 @@
 ---
 author: "Hairizuan"
-date: 2019-04-01
+date: 2019-05-01
 title: Cloud Next Extended Singapore - Part 1 - Serverless, Infra and DevOps!
 weight: 10
 categories: ["meetup"]
