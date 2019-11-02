@@ -8,6 +8,10 @@ categories: ["meetup"]
 
 GCPUG/GDG Cloud Singapore would be holding a final devfest event for the year! We're going out with a bang with a whole bunch of talks and workshops!
 
+Event would be held on **9th November 2019** @ **Google Singapore**
+
+Event link is here: https://www.meetup.com/GCPUGSG/events/264449620/
+
 ## Talk X
 
 Topic: Hybrid Application Modernization with Anthos
@@ -79,6 +83,14 @@ Topic: Building machine images with Packer and Ansible
 Synopsis: One approach to infrastructure management is the building of immutable custom machine images containing applications and their system dependencies. This talk will be a brief introduction to using Packer with Ansible to accomplish this. This approach can be combined with complementary tooling such as Terraform or Spinnaker to handle deployments and manage the surrounding infrastructure.
 
 Speaker: Daniel is the Lead Engineer for DevOps and Infrastructure at Wego. He builds stuff for people who build stuff to allow them to build stuff better.
+
+## Talk X
+
+Topic: Container Native Load Balancing in GCP
+
+Synopsis: How the "NEG" feature makes load balancing on GCP even better for containers?
+
+Speaker: Working at Cloud Ace, as a Cloud Solutions Engineer. I work with customers embracing GCP and help them build solutions with GCP services.
 
 ## Talk X
 
