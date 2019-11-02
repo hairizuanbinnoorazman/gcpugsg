@@ -8,7 +8,7 @@ categories: ["meetup"]
 
 GCPUG/GDG Cloud Singapore would be holding a final devfest event for the year! We're going out with a bang with a whole bunch of talks and workshops!
 
-Event would be held on **9th November 2019** @ **Google Singapore**
+Event will be held on **9th November 2019** @ **Google Singapore**
 
 Event link is here: https://www.meetup.com/GCPUGSG/events/264449620/
 
