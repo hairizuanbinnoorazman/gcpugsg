@@ -70,11 +70,11 @@ Speaker: Teh Kim Ming. Data science practitioner, trainer & life-long learner an
 
 ## Talk X
 
-Topic: TBC
+Topic: Cloud Build, one year since then ...
 
-Synopsis: TBC
+Synopsis: It's been a year since Rakuten Viki has moved to using Cloud Build as one of its primary CICD tooling. We will see what has transpired since and what they have learnt along the way.
 
-Speaker: Weiyuan
+Speaker: Weiyuan is Full Stack Engineer at Rakuten Viki, developing and managing various frontend and backend services. Over the last year, he has participated in the company's move to use GCP, and GKE in particular. He also orchestrated part of the move for the company's CI to Cloud Build, and maintains the GCP infrastructure for Soompi, a news site covering Korean pop culture. Weiyuan also works for National University of Singapore as a Final Year Project co-supervisor, and volunteers as an organiser for the Singapore charter for GCPUG.
 
 ## Talk X
 
