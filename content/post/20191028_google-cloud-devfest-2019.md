@@ -21,16 +21,16 @@ Event link is here: https://www.meetup.com/GCPUGSG/events/264449620/
 | 1.30pm - 2pm      | Hybrid Application Modernization with Anthos                                          | Dambo Ren from Google     |
 | 2pm - 2.30pm      | A gentle Introduction to Phoenix/Elixir on Google Cloud AppEngine                     | Neya Rangesh from Yojee   |
 | 2.30 pm - 3.00 pm | Learnings and Sharings of using DialogFlow to enable Speech Technologies in Singapore | Kevin from IMDA           |
-| 3:00 pm - 3.15 pm | Using Skaffold                                                                        | Hairizuan from Acronis    |
+| 3.00 pm - 3.15 pm | Cloud Build, one year since then ...                                                  | Weiyuan from Rakuten Viki |
 | 3.15pm - 3.30pm   | Break                                                                                 | -                         |
 | 3.30 pm - 4.00 pm | Firebase ML Kit - AutoML Vision Edge                                                  | Dara from GDG KL          |
 | 4.00 pm - 4.30 pm | Practical natural language processing (NLP) implementation in real world              | Teh Kim Ming from SPH     |
-| 4:30 pm - 4:45 pm | -                                                                                     | Fastly                    |
-| 4.45 pm - 5.00 pm | Cloud Build, one year since then ...                                                  | Weiyuan from Rakuten Viki |
+| 4:30 pm - 5.00 pm | -                                                                                     | Fastly                    |
 | 5pm - 5.15pm      | Break                                                                                 | -                         |
 | 5.15 pm - 5.45 pm | How the "NEG" feature makes load balancing on GCP even better for containers?         | Avinash from Cloud Ace    |
 | 5.45 pm - 6.15 pm | Building machine images with Packer and Ansible                                       | Daniel Poon from Wego     |
-| 6.15 pm - 6.30 pm | Closing                                                                               | Hairizuan                 |
+| 6.15 pm - 6.30 pm | Using Skaffold                                                                        | Hairizuan from Acronis    |
+| 6.30pm - 6.45pm   | Closing                                                                               | Hairizuan                 |
 | Ending            | Photo session                                                                         | -                         |
 
 ## Talk X
