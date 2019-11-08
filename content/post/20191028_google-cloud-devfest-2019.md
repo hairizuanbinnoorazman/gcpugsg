@@ -28,9 +28,9 @@ Event link is here: https://www.meetup.com/GCPUGSG/events/264449620/
 | 4:30 pm - 5.00 pm | -                                                                                     | Fastly                    |
 | 5pm - 5.15pm      | Break                                                                                 | -                         |
 | 5.15 pm - 5.45 pm | How the "NEG" feature makes load balancing on GCP even better for containers?         | Avinash from Cloud Ace    |
-| 5.45 pm - 6.15 pm | Building machine images with Packer and Ansible                                       | Daniel Poon from Wego     |
-| 6.15 pm - 6.30 pm | Using Skaffold                                                                        | Hairizuan from Acronis    |
-| 6.30pm - 6.45pm   | Closing                                                                               | Hairizuan                 |
+| 5.45 pm - 6.00 pm | Cloud Data Loss Prevention API                                                        | Harsh, Student            |
+| 6.00 pm - 6.15 pm | Using Skaffold                                                                        | Hairizuan from Acronis    |
+| 6.15pm - 6.30pm   | Closing                                                                               | Hairizuan                 |
 | Ending            | Photo session                                                                         | -                         |
 
 ## Talk X
@@ -99,19 +99,19 @@ Speaker: Weiyuan is Full Stack Engineer at Rakuten Viki, developing and managing
 
 ## Talk X
 
-Topic: Building machine images with Packer and Ansible
-
-Synopsis: One approach to infrastructure management is the building of immutable custom machine images containing applications and their system dependencies. This talk will be a brief introduction to using Packer with Ansible to accomplish this. This approach can be combined with complementary tooling such as Terraform or Spinnaker to handle deployments and manage the surrounding infrastructure.
-
-Speaker: Daniel is the Lead Engineer for DevOps and Infrastructure at Wego. He builds stuff for people who build stuff to allow them to build stuff better.
-
-## Talk X
-
 Topic: Container Native Load Balancing in GCP
 
 Synopsis: How the "NEG" feature makes load balancing on GCP even better for containers?
 
 Speaker: Working at Cloud Ace, as a Cloud Solutions Engineer. I work with customers embracing GCP and help them build solutions with GCP services.
+
+## Talk X
+
+Topic: Cloud Data Loss Prevention API
+
+Synopsis: Cloud DLP is an API that automatically detects and secures sensitive information and personally identifiable information, preventing data loss and breach.
+
+Speaker: Harsh is currently a student, doing his under graduation here in Singapore and he a self learnt coder. He is a constant and a fast learner and the youngest speaker for today.
 
 ## Talk X
 
