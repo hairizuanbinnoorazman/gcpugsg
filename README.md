@@ -1,6 +1,6 @@
-# GCPUG-SG website
+# GDG Cloud Singapore website
 
-This is the codebase for hosting the Google Cloud Platform User Group - Singapore website
+This is the codebase for hosting the GDG Cloud Singapore website
 
 # Running website locally
 
@@ -18,4 +18,4 @@ We are relying on netlify to both run continuous deployment of the website as we
 
 # Architecture overview
 
-The GCPUG website is only a frontend static website with no backend functionality. The website is created by relying on the [Hugo](https://gohugo.io/) which would generate the static website and deploy it on netlify.
+The GDG Cloud Singapore website is only a frontend static website with no backend functionality. The website is created by relying on the [Hugo](https://gohugo.io/) which would generate the static website and deploy it on netlify.
