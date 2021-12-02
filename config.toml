@@ -1,6 +1,6 @@
 baseurl = "https://www.gcpugsg.com/"
 languageCode = "en-us"
-title = "GCPUG - Singapore" 
+title = "GDG Cloud Singapore" 
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 5
@@ -17,7 +17,7 @@ canonifyURLs = true
   # Sets the meta tag description
   description          = ""
   # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "GCPUG-SG"
+  navbarTitle          = "GDG Cloud Singapore"
   # Sets where "View More Posts" links
   viewMorePostLink     = "/post/"
 
@@ -81,7 +81,7 @@ canonifyURLs = true
   [params.intro.pic]
     src       = "/img/main/logo.png"
     width     = "200"
-    alt       = "GCPUG - Singapore"
+    alt       = "GDG Cloud Singapore"
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
@@ -125,4 +125,4 @@ canonifyURLs = true
 [social]
   # Coding Communities
   github           = "hairizuanbinnoorazman/gcpugsg"
-  facebook         = "groups/1887212944908972/"
+  facebook         = "groups/GDGCloudSingapore"
