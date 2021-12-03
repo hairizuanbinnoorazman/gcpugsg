@@ -4,6 +4,7 @@ date: 2020-01-09
 title: Data Science on Google Cloud
 weight: 10
 categories: ["meetup"]
+description: Data Science on Google Cloud Platform via Google BigQuery and expectations of artificial intelligence in the future
 ---
 
 This is the first event for the year 2020
@@ -33,6 +34,8 @@ Synopsis: Combining the scalability of BigQuery and the expressiveness of Python
 Speaker: Koo is the co-founder of DataScience SG, one of the largest meetup group on Data Science and Artificial Intelligence in Singapore. Besides running the community, Koo is a instructor, consultant and mentor in Data Science and a self-funded researcher in Artificial Intelligence, having more than 14 years of relevant experience and taught in various IHLs. His career focus is on helping more people and organizations onboard into Data Science & Artificial Intelligence. LinkedIn profile: https://www.linkedin.com/in/koopingshung/
 
 Synopsis: Artificial Intelligence is the loudest buzzword these days and as folks who work on data, Artificial Intelligence is where most of us will like to work on. In this talk, we are going to do a quick recap of exciting developments in Artificial Intelligence and Koo will also share what are the areas that will see further development going forward into 2020 and the new decade.
+
+FYI, the speaker also has a podcast - you might want to follow him and hear some of his views regarding various topics on https://anchor.fm/symbolic-connection
 
 ### ML, GIS, clusters and more: Fun with BigQuery's new features
 
