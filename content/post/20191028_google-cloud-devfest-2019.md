@@ -12,6 +12,8 @@ Event will be held on **9th November 2019** @ **Google Singapore**
 
 Event link is here: https://www.meetup.com/GCPUGSG/events/264449620/
 
+The following event is not recorded - there are no youtube clips of the sessions
+
 ## Agenda
 
 | Time              | Session                                                                               | Speaker                   |
