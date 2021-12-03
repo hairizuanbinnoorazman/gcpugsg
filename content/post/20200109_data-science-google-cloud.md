@@ -20,6 +20,12 @@ The following event is not recorded - there are no youtube clips of the sessions
 
 Speaker: Valliappa Lakshmanan. Lak is Global Head for Data Analytics and AI Solutions on Google Cloud. His team builds software solutions for business problems using Google Cloud's data analytics and machine learning products. He founded Google's Advanced Solutions Lab ML Immersion program and is the author of a couple of O'Reilly books and several Coursera courses. Before Google, Lak was a Director of Data Science at Climate Corporation and a Research Scientist at NOAA.
 
+Do check out some of the books he wrote:
+- [Data Science on the Google Cloud Platform](https://learning.oreilly.com/library/view/data-science-on/9781491974551/)
+- [Google BigQuery: The Definitive Guide](https://learning.oreilly.com/library/view/google-bigquery-the/9781492044451/)
+
+In the case the links become outdated - do take the opportunity to search for the book on the oreilly platform
+
 Synopsis: Combining the scalability of BigQuery and the expressiveness of Python Notebooks enables you to solve hard data science problems in minutes without data movement. In this session, you’ll learn how to fit probabilistic distributions, build recommendation systems, and train deep learning models on extremely large datasets interactively. And while ML can be carried out in BigQuery natively, being able to use powerful, industry-standard ML frameworks such as TensorFlow can give you access to a much wider variety of ML models and components - so we will also look at the connections that exist between BigQuery and full-fledged ML frameworks.
 
 ### Artificial Intelligence: 2020 and Beyond
