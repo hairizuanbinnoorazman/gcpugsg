@@ -10,6 +10,8 @@ This is the first event for the year 2020
 
 Event will be held on **9th January 2020** @ **Google Singapore**
 
+Event link is here: https://www.meetup.com/GDG-Cloud-Singapore/events/267203048/
+
 The following event is not recorded - there are no youtube clips of the sessions
 
 ## Agenda
@@ -29,3 +31,8 @@ Synopsis: Artificial Intelligence is the loudest buzzword these days and as folk
 ### ML, GIS, clusters and more: Fun with BigQuery's new features
 
 Speaker: Felipe Hoffa, Developer Advocate, Google
+
+You can check out his medium blog posts - https://hoffa.medium.com/
+However, do take note he has recently moved to Snowflake; so in order to get to the portion on BigQuery instead of Snowflake, you might need to scroll quite a ways downward
+
+Also, there are other authors on this topic, you can check out the following medium post: https://mentin.medium.com/mapping-statistics-between-different-spatial-hierarchies-9625a7064a15
