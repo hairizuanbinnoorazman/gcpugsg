@@ -65,3 +65,17 @@ The below are some tools that speakers can potentially use to spice up their tal
 - Google Data GIF  
   A tool to provide a animated vizualization to showcase points in a dataset  
   https://datagifmaker.withgoogle.com/
+
+## Organizers
+
+The organizers in the GDG Cloud Singapore has changed over time. We'll try to update the list here as quickly as we can but the most updated list can be found on the gdg sites page. https://gdg.community.dev/gdg-cloud-singapore/
+
+### Hairizuan
+
+Linkedin Profile: https://www.linkedin.com/in/hairizuan-noorazman/  
+Blog: https://www.hairizuan.com  
+
+### Weiyuan
+  
+Linkedin Profile: https://www.linkedin.com/in/liuweiyuan/  
+Blog: https://weiyuan-liu.medium.com/
