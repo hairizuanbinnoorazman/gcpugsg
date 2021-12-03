@@ -2,6 +2,7 @@
 title: "About GDG Cloud Singapore"
 date: "2014-04-09"
 author: "GDG Cloud Singapore"
+description: About page for GDG Cloud Singapore
 ---
 
 GDG Cloud Singapore is a local Singapore organization whose focus is to get people from community to share their learnings and use cases in order to further understand the tools within Google Cloud Platform. Usually, such sharing are held with talks but we are aiming to have a different variety of formats to share content with other audiences.
