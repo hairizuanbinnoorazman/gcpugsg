@@ -8,6 +8,16 @@ GDG Cloud Singapore is a local Singapore organization whose focus is to get peop
 
 In the future, we would add some open source projects that the core team members are working that would be great to be shared with the community. However in the mean time, just enjoy some of the resources/links that are shared here. They should prove useful to you if this is like your first time being aware of the meetup group and availability of cloud blogs/resources.
 
+## Social Media
+
+The GDG Cloud Singapore meetup group has several presence in various in Social Media. You can check them out here:
+
+Facebook: https://www.facebook.com/groups/GDGCloudSingapore
+Slack: https://bit.ly/gdg-join-slack
+Meetup: https://www.meetup.com/GDG-Cloud-Singapore/
+GDG-Sites: https://gdg.community.dev/gdg-cloud-singapore/
+Medium: https://medium.com/gdg-singapore
+
 ## Coming to meetups
 
 NOTE: MEETUPS FOR THE GDG CLOUD SINGAPORE GROUP IS SUSPENDED TILL FURTHER NOTICE. REASON FOR THE SUSPENSION IS TO THE AMOUNT OF ADMINSTRATIVE EFFORT TO HOLD THE EVENT AS WELL AS RESTRICTION IN USING THE USUAL EVENT SPACE TO HOLD EVENTS. BETTER TO STAY SAFE AND CONTINUE HOLDING EVENTS AS USUAL ONLINE.
