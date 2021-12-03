@@ -12,6 +12,8 @@ Event will be held on **30th November 2019** @ **Google Singapore**
 
 Event link is here: https://www.meetup.com/GDG-Cloud-Singapore/events/266576399/
 
+The following event is not recorded - there are no youtube clips of the sessions
+
 ## How to register for the event
 
 Visit https://goo.gle/devfestsg2019 to register for event
