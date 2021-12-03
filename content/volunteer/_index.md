@@ -9,5 +9,5 @@ GDG Cloud Singapore is a local Singapore organization whose focus is to get peop
 
 We are constantly on a lookout for new speakers so if you wish to speak on any of events, you can reach out to us via the following form:
 
-{{< google-forms 1FAIpQLSeYXXu8NBsp7_Td3Io1Y-MmLbyvK1xZwJJvoSyEAcdw3rdGdw >}}
+https://bit.ly/GDGSGCFP
 
