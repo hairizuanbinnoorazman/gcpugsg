@@ -13,11 +13,11 @@ In the future, we would add some open source projects that the core team members
 
 The GDG Cloud Singapore meetup group has several presence in various in Social Media. You can check them out here:
 
-Facebook: https://www.facebook.com/groups/GDGCloudSingapore
-Slack: https://bit.ly/gdg-join-slack
-Meetup: https://www.meetup.com/GDG-Cloud-Singapore/
-GDG-Sites: https://gdg.community.dev/gdg-cloud-singapore/
-Medium: https://medium.com/gdg-singapore
+Facebook: https://www.facebook.com/groups/GDGCloudSingapore  
+Slack: https://bit.ly/gdg-join-slack  
+Meetup: https://www.meetup.com/GDG-Cloud-Singapore/  
+GDG-Sites: https://gdg.community.dev/gdg-cloud-singapore/  
+Medium: https://medium.com/gdg-singapore  
 
 ## Coming to meetups
 
